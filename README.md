@@ -9,4 +9,4 @@ HTTP Custom
 
 
 # Tsel
-* [V2Ray 27 April 2023](./tsel/v2ray.hc)
+* [opok 23 Mei 2023](./tsel/23meiopoktsel.hc)
