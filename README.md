@@ -10,7 +10,7 @@ Remote Proxy
 ```
 SNI/SSL/[host]
 ```sh
-net.datapedia.web.id
+netpediahostserver
 ```
 Result
 ```sh
